@@ -1,0 +1,7 @@
+"hello this is just for demo to upload a file in git hub and learning a git command like
+       1. clone
+       2.add
+       2.push
+       4.pull
+       and etc
+                          "
